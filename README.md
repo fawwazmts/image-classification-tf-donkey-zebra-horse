@@ -33,7 +33,7 @@ Pre-trained model that used in this project can be accsesed [here](https://tfhub
 Source: 
 
 * [https://www.tensorflow.org/hub/lib_overview](https://www.tensorflow.org/hub/lib_overview)
-* [https://www.tensorflow.org/hub/tf2_saved_model]([https://www.tensorflow.org/hub/tf2_saved_model]())
+* [https://www.tensorflow.org/hub/tf2_saved_model](https://www.tensorflow.org/hub/tf2_saved_model)
 * [https://www.tensorflow.org/hub/lib_overview](https://www.tensorflow.org/hub/tutorials/tf2_image_retraining?hl=id#select_the_tf2_savedmodel_module_to_use)
 
 ## How to Use This Project
